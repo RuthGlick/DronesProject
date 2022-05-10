@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BaseStations.xml>
+  <BaseStation>
+    <Id>11111</Id>
+    <Name>aaa</Name>
+    <ChargeSlots>3</ChargeSlots>
+    <Longitude>25</Longitude>
+    <Latitude>26</Latitude>
+    <IsDeleted>false</IsDeleted>
+  </BaseStation>
+  <BaseStation>
+    <Id>22222</Id>
+    <Name>bb</Name>
+    <ChargeSlots>4</ChargeSlots>
+    <Longitude>25.6</Longitude>
+    <Latitude>26</Latitude>
+    <IsDeleted>false</IsDeleted>
+  </BaseStation>
+</BaseStations.xml>

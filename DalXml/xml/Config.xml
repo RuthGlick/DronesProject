@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+	<Available>0.0005</Available>
+	<LightWeight>0.001</LightWeight>
+	<MediumWeight>0.0015</MediumWeight>
+	<HeavyWeight>0.002</HeavyWeight>
+	<ChargingRate>10</ChargingRate>
+</Config>

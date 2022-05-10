@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<ArrayOfParcel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Parcel>
+    <Id>100000002</Id>
+    <SenderId>333333333</SenderId>
+    <TargetId>222222222</TargetId>
+    <Weight>HEAVY</Weight>
+    <Priority>REGULAR</Priority>
+    <Requested>2022-02-15T05:08:59.7222142+02:00</Requested>
+    <DroneId>0</DroneId>
+    <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000001</Id>
+    <SenderId>222222222</SenderId>
+    <TargetId>111111111</TargetId>
+    <Weight>INTERMEDIATE</Weight>
+    <Priority>FAST</Priority>
+    <Requested>2022-02-15T05:08:41.9139367+02:00</Requested>
+    <DroneId>34567</DroneId>
+    <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000003</Id>
+    <SenderId>444444444</SenderId>
+    <TargetId>555555555</TargetId>
+    <Weight>INTERMEDIATE</Weight>
+    <Priority>EMERGENCY</Priority>
+    <Requested>2022-02-15T05:09:18.611404+02:00</Requested>
+    <DroneId>34567</DroneId>
+    <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000001</Id>
+    <SenderId>222222222</SenderId>
+    <TargetId>111111111</TargetId>
+    <Weight>INTERMEDIATE</Weight>
+    <Priority>FAST</Priority>
+    <Requested>2022-02-15T05:08:41.9139367+02:00</Requested>
+    <DroneId>34567</DroneId>
+    <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000003</Id>
+    <SenderId>444444444</SenderId>
+    <TargetId>555555555</TargetId>
+    <Weight>INTERMEDIATE</Weight>
+    <Priority>EMERGENCY</Priority>
+    <Requested>2022-02-15T05:09:18.611404+02:00</Requested>
+    <DroneId>12345</DroneId>
+       <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000004</Id>
+    <SenderId>555555555</SenderId>
+    <TargetId>333333333</TargetId>
+    <Weight>LIGHT</Weight>
+    <Priority>FAST</Priority>
+    <Requested>2022-02-15T05:09:35.909251+02:00</Requested>
+    <DroneId>23456</DroneId>
+   <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000005</Id>
+    <SenderId>111111111</SenderId>
+    <TargetId>222222222</TargetId>
+    <Weight>LIGHT</Weight>
+    <Priority>REGULAR</Priority>
+    <Requested>2022-02-15T05:08:23.987981+02:00</Requested>
+    <DroneId>23456</DroneId>
+       <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000000</Id>
+    <SenderId>111111111</SenderId>
+    <TargetId>333333333</TargetId>
+    <Weight>LIGHT</Weight>
+    <Priority>REGULAR</Priority>
+    <Requested>2022-02-15T05:08:23.987981+02:00</Requested>
+    <DroneId>23456</DroneId>
+     <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000008</Id>
+    <SenderId>111111111</SenderId>
+    <TargetId>222222222</TargetId>
+    <Weight>LIGHT</Weight>
+    <Priority>REGULAR</Priority>
+    <Requested>2022-02-18T11:05:38.3945861+02:00</Requested>
+    <DroneId>23456</DroneId>
+      <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+  <Parcel>
+    <Id>100000009</Id>
+    <SenderId>222222222</SenderId>
+    <TargetId>333333333</TargetId>
+    <Weight>LIGHT</Weight>
+    <Priority>REGULAR</Priority>
+    <Requested>2022-02-18T11:06:13.0575494+02:00</Requested>
+    <DroneId>23456</DroneId>
+       <Scheduled xsi:nil="true" />
+    <PickedUp xsi:nil="true" />
+    <Delivered xsi:nil="true" />
+    <IsDeleted>false</IsDeleted>
+  </Parcel>
+</ArrayOfParcel>
